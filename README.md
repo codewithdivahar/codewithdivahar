@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hi, I'm Divahar Baskaran<br><br>A software engineer recently moved to Canada 🇨🇦 from India 🇮🇳.<br><br>I have eight years of experience in Tech industry. I have developed various<br>applications in my experience. I'm starting this github to showcase my<br>personal projects from my learning.<br><br>I have a instagram and youtube account created. Will be posting videos and<br>contents from September 2024.<br>
-
+Hi, I'm Divahar Baskaran<br><br>A software engineer recently moved to Canada 🇨🇦 from India 🇮🇳.<br><br>I have eight years of experience in Tech industry. I have developed various<br>applications in my experience. I'm starting this github to showcase my<br>personal projects from my learning.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codewithdivahar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/divahar-baskaran) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@codewithdivahar) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@codewithdivahar) 
